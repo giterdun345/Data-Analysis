@@ -1,0 +1,1 @@
+This is a Tableau Workbook that shows a country's GDP on a world map from 2002 to 2016. The map allows you to compare each country's GDP with others during each year.
