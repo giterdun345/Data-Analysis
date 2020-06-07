@@ -1,1 +1,1 @@
-This is a workbook analyzing gender within a company. The data was obtained using SQL queries and those SQL text files have been included. 
+This is a workbook analyzing gender within a company. The data was obtained using SQL queries and those SQL text files have been included. The link for the Tableau Public can be found here: https://public.tableau.com/profile/john8488#!/vizhome/employees_mod_15914677893320/Dashboard1
