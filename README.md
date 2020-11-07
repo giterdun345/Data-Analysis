@@ -1,2 +1,2 @@
 # Data-Analysis
- All projects of or relating to data analysis
+Personal projects of or relating to data analysis
